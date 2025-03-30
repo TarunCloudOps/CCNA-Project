@@ -1,10 +1,1 @@
-enable
-configure terminal
-hostname Router-1
-interface GigabitEthernet 0/0
-ip address 192.168.1.1 255.255.255.0
-no shutdown
-exit
-write memory
-
-
+"Router Configuration Commands" 
